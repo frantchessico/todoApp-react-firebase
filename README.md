@@ -1,4 +1,4 @@
-# Todo App w/ Auth
+# todoApp-react-firebase
 
 
 #todoApp-react-firebase
