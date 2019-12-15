@@ -1,10 +1,7 @@
 # Todo App w/ Auth
 
-## [Full youtube tutorial here](https://www.youtube.com/watch?v=OHQvbiQpGC8&list=PLoH-uUW2wEIQU3diUzrpFaFOcXM8z8gBc&fbclid=IwAR1wppn59LBfNen_Lpq0mEFaqxQymX9fAzbpeVht3TuShkXidaBVJ9fyhhU)
 
-![Thumbnail](1.png)
-![Thumbnail2](2.png)
-![Thumbnail3](3.png)
+#todoApp-react-firebase
 
 A todo App with Authentication using Firebase. Todos are saved using Firestore.
 
@@ -40,4 +37,4 @@ Please feel free to send pull request if you want to contribute!
 
 ## Authors
 
-- **Fidalgo** - _Development_ - [Fidalgo](https://github.com/fidalgodev)
+- **Francisco Jaime Inoque** - _Development_ - [Francisco Jaime Inoque](https://franciscoinoqueportfolio.firebaseapp.com/)
